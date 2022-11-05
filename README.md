@@ -1,7 +1,7 @@
 <p align="center">
   
   <h2 align="center">Spaceship-Titanic-Kaggle-challege</h2>
-  <h3 align="center">Predict whether a passenger on the Spaceship would be transport or not.</h3>
+  <h3 align="center">Predict which passengers are transported to an alternate dimension.</h3>
   
 </p>
 
@@ -37,12 +37,8 @@ import seaborn as sns
 #### Data Preprocessing
 *   Cleaning Data
 *   Missing value treatment
-*   Feature scaling
-*   One-hot encoding
 
 #### Model Building: Supervised Machine learning Techniques:
-*   Logistic Regression Model
-*   Random Forest
-*   Gradient Boost
-*   XGBoost 
-*   Bagging Classifier
+*   DecisionTreeClassifier
+*   RandomForestClassifier
+*   GridSearchCV
