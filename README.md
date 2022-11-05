@@ -11,23 +11,23 @@
 
 ## Load required librray
 
-*import pandas as pd
+*   import pandas as pd
 
 
-*import numpy as np
+*   import numpy as np
 
 
-*import matplotlib.pyplot as plt
+*   import matplotlib.pyplot as plt
 
 
-*import seaborn as sns
+*   import seaborn as sns
 
 
 ##Error: No module named ‘xxxxxx’
 
 ##Solution: Install that module
 
-!pip install xxxxxx
+*   !pip install xxxxxx
 
 
 #### Exploratory Data Analysis
