@@ -37,6 +37,7 @@
 #### Data Preprocessing
 *   Cleaning Data
 *   Missing value treatment
+https://github.com/miqbal303/Spaceship-Titanic-Kaggle-challege/issues/1#issue-1437100515
 
 #### Model Building: Supervised Machine learning Techniques:
 *   DecisionTreeClassifier
