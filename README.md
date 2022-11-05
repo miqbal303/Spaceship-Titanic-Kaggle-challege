@@ -1,4 +1,13 @@
-# Spaceship-Titanic-Kaggle-challege
+<p align="center">
+  
+  <h2 align="center">Spaceship-Titanic-Kaggle-challege</h2>
+  <h3 align="center">Predict whether a passenger on the Spaceship would be transport or not.</h3>
+  
+</p>
+
+<br>
+
+
 
 ## Load required librray
 
