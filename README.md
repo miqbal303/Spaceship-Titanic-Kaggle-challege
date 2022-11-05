@@ -1,6 +1,6 @@
 # Spaceship-Titanic-Kaggle-challege
 
-# Load required librray
+## Load required librray
 
 import pandas as pd
 
@@ -13,3 +13,8 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 
+
+##Error: No module named ‘xxxxxx’
+##Solution: Install that module
+
+!pip install xxxxxx
